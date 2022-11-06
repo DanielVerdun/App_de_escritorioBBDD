@@ -1,5 +1,6 @@
 # App_de_escritorioBBDD
-Proyecto académico.
+Proyecto académico donde se solicita la creacion  de una App
+de escritorio que nos permita conectar a nuestra base de datos.
+Dicha app, debe permitir realizar un CRUD por medio de la interdface gráfica.
 
-REALIZAR UNA APLICACIÓN QUE CONECTE A  BBDD,
-PERMITIENDO AL USUARIO UTILIZAR LA FUNCION C R U D POR MEDIO DE INTERFACE GRÁFICA.
+Python - Tkinter
